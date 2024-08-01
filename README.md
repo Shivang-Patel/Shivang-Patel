@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Generative AI Projects<br>👯 I’m looking to collaborate on LLM fine tuning<br>🌱 I’m currently learning Deep Learning using PyTorch<br> 📫 How to reach me shivang.patel@gmail.com<br>⚡ Fun fact I'd say GGMU to death!
+🔭 I’m currently working on Generative AI Projects<br>👯 I’m looking to collaborate on LLM fine tuning<br>🌱 I’m currently learning Deep Learning using PyTorch<br> 📫 How to reach me shivang.patel@gmail.com<br>⚡ Fun fact: I'd say GGMU to death!
 
 
 ## 🌐 Socials:
